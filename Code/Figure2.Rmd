@@ -1,6 +1,6 @@
 # Figure 2A
 
-```{r}
+
 library(ggplot2)
 library(ComplexUpset) 
 library(patchwork)
@@ -16,7 +16,7 @@ library(jsonlite)
 library(data.table)
 library(UpSetR)
 library(dplyr)
-```
+
 
 SP_Upset2 =read.csv("Manuscript/Fig1_matrix/pneumo_456.csv")
 
