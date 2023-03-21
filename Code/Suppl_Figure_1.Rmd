@@ -3,10 +3,9 @@
 #Load R libraries
 
 library(dataRetrieval)
-library(dplyr) # for `rename`
-library(tidyr) # for `gather`
+library(dplyr) 
+library(tidyr) 
 library(ggplot2)
-library(cowplot)
 library(extrafont)
 library(forcats)
 loadfonts(device = "win")
