@@ -1,0 +1,39 @@
+# Exact binomial 95% confidence intervals were calculated around the *in silico* positivity rates and *in vitro* sensitivity and specificity
+
+# Load R library
+
+library(binom)
+
+### Table 1 
+Exact binomial 95% confidence intervals were calculated around the *in silico* positivity rates in the pneumococcal genome dataset (n=7,547). 
+
+```{r}
+
+#lytA-CDC
+binom.test(7304,7547, conf.level = 0.95)
+#piaB
+binom.test(7427,7547, conf.level = 0.95)
+#ply
+binom.test(7544,7547, conf.level = 0.95)
+#psaA
+binom.test(7520,7547, conf.level = 0.95)
+#Spn9802
+binom.test(7488,7547, conf.level = 0.95)
+#SP2020
+binom.test(7518,7547, conf.level = 0.95)
+#Xisco
+binom.test(7541,7547, conf.level = 0.95)
+
+
+#SP2020_new
+binom.test(7518,7547, conf.level = 0.95)
+#Xisco_1
+binom.test(7541,7547, conf.level = 0.95)
+#Xisco_2
+binom.test(7543,7547, conf.level = 0.95)
+#Xisco_3
+binom.test(7541,7547, conf.level = 0.95)
+
+
+
+```
