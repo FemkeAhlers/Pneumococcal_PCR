@@ -77,7 +77,7 @@ upset(NPS_Upset_3,
       sort_set=FALSE,
       #Changing the font size
       themes=upset_default_themes(text=element_text(size=12)),
-      #Removing the set_size part of the plot following Angela's comments 03-11-2022
+      #Removing the set_size part of the plot 
       set_sizes=FALSE, 
       #Removing the extra white space between y-axis and first bar
       width_ratio=0.1,
