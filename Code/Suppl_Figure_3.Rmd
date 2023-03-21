@@ -44,6 +44,3 @@ NPS_N50 <- ggplot(NPS_SE, aes(x=N50)) +
 right_column <- plot_grid(NPS_contigs, NPS_N50, ncol =1, nrow =2)
 Suppl_3 <- plot_grid(NPS_species, right_column, ncol =2, nrow =1,rel_widths = c(2,1) )
 
-pdf("Suppl_3.pdf", width = 7, height =9)
-Suppl_3
-dev.off()
