@@ -1,8 +1,5 @@
 # Utilising large and diverse bacterial genome datasets to improve the identification of *Streptococcus pneumoniae* via PCR-based diagnostics
 
-This document contains the code used to analyse the data for the PCR manuscript.
-The PCR manuscript - working title "Utilising large and diverse bacterial genome datasets to improve the identification of *Streptococcus pneumoniae* via PCR-based diagnostics" - contains four Figures and three Tables in the main text. The Supplementary Materials contain seven Figures and six Tables. 
-
 ## (ECCMID) Abstract
 ### Background
 Accurate identification of *Streptococcus pneumoniae* (pneumococcus) is crucial for clinical microbiology, surveillance and epidemiology, but can be complicated by the misidentification of non-pneumococcal *Streptococcus* (NPS) species. The aims of this study were to use genome datasets to assess the *in silico* accuracy of current qPCR/PCR targets, and then develop and validate *in vitro* assays for the most promising target: the ‘Xisco’ gene (TIGR4 genome locus SP_1992). 
