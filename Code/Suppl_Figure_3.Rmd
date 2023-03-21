@@ -15,11 +15,12 @@ NPS_species <- ggplot(NPS_DE, aes(x=(fct_rev(fct_infreq(species))))) +
   theme_bw() +
   #forcing origin to start at (0,0) 
   scale_y_continuous(expand = c(0, 0), limits=c(0,220)) +
-  theme(axis.title.x=element_blank()) + ylab("Count") +
+  theme(axis.title.x=element_blank()) + 
+  ylab("Count") +
   theme(text=element_text(size=12)) +
 #Add labels to the count
   geom_text(stat='count', aes(label=..count..), size = 3.5, hjust=-0.2) +
-  theme(axis.text.y = element_text(size=10, face = "italic"))+
+  theme(axis.text.y = element_text(size=10, face = "italic")) +
      coord_flip()
 
 NPS_contigs <- ggplot(NPS_SE, aes(x= Contigs)) +
@@ -27,7 +28,8 @@ NPS_contigs <- ggplot(NPS_SE, aes(x= Contigs)) +
   theme_bw() +
   #forcing origin to start at (0,0) 
   scale_y_continuous(expand = c(0, 0), limits=c(0,500)) +
-  xlab("Number of Contigs") + ylab("Count") +
+  xlab("Number of Contigs") + 
+  ylab("Count") +
   theme(text=element_text(size=12))
 
 NPS_N50 <- ggplot(NPS_SE, aes(x=N50)) +
@@ -35,7 +37,8 @@ NPS_N50 <- ggplot(NPS_SE, aes(x=N50)) +
   theme_bw() +
   #forcing origin to start at (0,0) 
   scale_y_continuous(expand = c(0, 0), limits=c(0,700)) +
-  xlab("N50") + ylab("Count") +
+  xlab("N50") + 
+  ylab("Count") +
   theme(text=element_text(size=12))
 
 right_column <- plot_grid(NPS_contigs, NPS_N50, ncol =1, nrow =2)
