@@ -1,1 +1,7 @@
+Figure 3: Limit of detection of Xisco_1, Xisco_2, Xisco_3 and SP2020_new singleplex assays. (A) Representative results for one of the three dilution series, depicting qPCR curves coloured by pneumococcal copy number per well. Horizontal dashed lines indicate the fluorescence threshold at 0.1 dRn. (B) A linear model fitted to the results for all three dilution series (24 data points in total), with 95% confidence intervals in grey.
 
+#Load R libraries
+
+#Import dataframe
+
+#Create Figure 3
