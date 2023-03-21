@@ -1,1 +1,3 @@
+# Supplementary Figure 2: Genome quality data for the in silico pneumococcal study dataset (n=7,547). 
+
 
