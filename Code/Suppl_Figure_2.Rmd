@@ -57,6 +57,3 @@ top_row <- plot_grid(contigs, length, ncol =2, nrow =1)
 bottom_row <- plot_grid(N50, GC, ncol =2, nrow =1)
 Suppl_2 <- plot_grid(top_row, bottom_row, ncol =1, nrow =2)
 
-pdf("Suppl_2.pdf", width = 10, height = 10)
-Suppl_2
-dev.off()
