@@ -28,3 +28,6 @@ ggplot(pneumo_DE, aes(x= fct_rev(fct_infreq(serotype)))) +
   theme(text=element_text(size=12)) +
   theme(axis.text = element_text(size = 10)) + 
   geom_text(stat='count', aes(label=..count..), size = 3.5, hjust=-0.2)  
+
+
+
