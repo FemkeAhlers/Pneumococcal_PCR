@@ -1,5 +1,7 @@
 # Utilising large and diverse bacterial genome datasets to improve the identification of *Streptococcus pneumoniae* via PCR-based diagnostics
 
+![github_image](https://user-images.githubusercontent.com/82872002/228604231-e4ae5b34-2b57-48af-add6-55a74f49f253.jpg)
+
 ![image](https://img.shields.io/static/v1?label=Languages&message=1&color=blue&?style=plastic&logo=appveyor)
 ![image_3](https://img.shields.io/static/v1?label=Coding%20Language&message=R&color=blueviolet&?style=plastic&logo=appveyor)
 
