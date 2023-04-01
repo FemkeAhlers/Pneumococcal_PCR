@@ -1,8 +1,11 @@
-# Figure 2: Summary of pneumococcal and NPS genomes causing discrepancies after in silico assessments of pneumococcal PCR assays. 
-# Black circles indicate that a PCR amplicon was detected, white circles indicate in silico negative tests. 
-# (A) Pneumococcal genomes that were in silico negative (n=456) for one or more PCR assays are shown, stratified by combinations of in silico positive tests. 
-# (B) NPS genomes that were in silico positive (n=87) for one or more pneumococcal PCR assays, stratified by combinations of positive tests.
-
+#########################################################################################################################
+# Figure 2: Summary of pneumococcal and NPS genomes causing discrepancies after in silico assessments of pneumococcal   #
+# PCR assays. Black circles indicate that a PCR amplicon was detected, white circles indicate in silico negative tests. #
+# (A) Pneumococcal genomes that were in silico negative (n=456) for one or more PCR assays are shown, stratified by     #
+# combinations of in silico positive tests.                                                                             #
+# (B) NPS genomes that were in silico positive (n=87) for one or more pneumococcal PCR assays, stratified by            #
+# combinations of positive tests.                                                                                       #
+#########################################################################################################################
 
 # Load R libraries
 
