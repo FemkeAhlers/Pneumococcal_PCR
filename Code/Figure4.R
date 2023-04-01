@@ -1,4 +1,8 @@
-#Figure 4: The relationship between experimental Cq-values for the 16S positive control and each of the four targets, when tested in multiplex assays against 248 UKHSA pneumococcal isolates that had been selected based upon in silico amplicon diversity. Note: data for Xisco_1, _2 and _3 were very similar so only Xisco_2 is shown here.
+#########################################################################################################################
+# Figure 4: The relationship between experimental Cq-values for the 16S positive control and each of the four targets,  #
+# when tested in multiplex assays against 248 UKHSA pneumococcal isolates that had been selected based upon             #
+# in silico amplicon diversity. Note: data for Xisco_1, _2 and _3 were very similar so only Xisco_2 is shown here.      #
+#########################################################################################################################
 
 #Load R libraries
 library(dataRetrieval)
@@ -10,7 +14,7 @@ library(tibble)
 library(ggh4x)
 
 #Import dataframe
-Fig4 =read.csv("248_updated_Xisco3_and_piaBv2.csv")
+qPCR=read.csv("Figure4_df.csv")
 
 #Create Figure 4
 #Changing the Cq values to numeric values, removing the Undetermined values
