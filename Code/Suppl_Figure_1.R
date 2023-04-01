@@ -1,4 +1,7 @@
-# Supplementary Figure 1: Distribution of serotypes for the in silico pneumococcal study dataset (n=7,547).
+#########################################################################################################################
+# Supplementary Figure 1: Distribution of serotypes for the in silico pneumococcal study dataset (n=7,547).             #
+#########################################################################################################################
+
 
 #Load R libraries
 
