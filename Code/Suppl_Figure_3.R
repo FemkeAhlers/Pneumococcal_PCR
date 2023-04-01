@@ -1,4 +1,9 @@
-# Supplementary Figure 3: Description of the non-pneumococcal Streptococcus (NPS) species genome dataset (n=1,825). (A) Frequency of each of the 55 different bacterial species. (B) Distribution of the number of contigs per NPS genome. (C) Distribution of the N50 values of the genome dataset. 
+#########################################################################################################################
+# Supplementary Figure 3: Description of the non-pneumococcal Streptococcus (NPS) species genome dataset (n=1,825).     #
+# (A) Frequency of each of the 55 different bacterial species. (B) Distribution of the number of contigs per NPS genome.#
+# (C) Distribution of the N50 values of the genome dataset.                                                             #
+#########################################################################################################################
+
 
 #Import dataframes
 
