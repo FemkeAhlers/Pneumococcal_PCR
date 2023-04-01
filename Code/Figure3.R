@@ -14,8 +14,8 @@ library(dplyr)
 library(ggpubr)
 
 #Import dataframe
-qPCR_singleplex_LOD = read.csv("19_12_2022_monoplex_LOD_curves_PCR_v2.csv")
-qPCR_singleplex_eff = read.csv("19_12_2022_monoplex_efficiency_v3.csv"
+qPCR_singleplex_LOD = read.csv("qPCR_single_LOD.csv")
+qPCR_singleplex_eff = read.csv("qPCR_single_eff.csv")
 
 #Create Figure 3A
 qPCR_singleplex_LOD$CopyNumber <- factor(qPCR_singleplex_LOD$CopyNumber,
