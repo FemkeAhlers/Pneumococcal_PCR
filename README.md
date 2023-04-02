@@ -2,7 +2,8 @@
 
 
 
-![github_image](https://user-images.githubusercontent.com/82872002/228604231-e4ae5b34-2b57-48af-add6-55a74f49f253.jpg)
+![pcr_image](https://user-images.githubusercontent.com/82872002/229370712-8c351a27-badd-4cb0-8b8e-4eebec88d762.jpg)
+
 
 ![Language](https://img.shields.io/badge/Coding%20Language-R%20version%204.2.1-blueviolet)
 ![Last_Update](https://img.shields.io/badge/Last%20Repository%20Update-March%202023-brightgreen)
