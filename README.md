@@ -2,7 +2,8 @@
 
 
 
-![pcr_image](https://user-images.githubusercontent.com/82872002/229370712-8c351a27-badd-4cb0-8b8e-4eebec88d762.jpg)
+![pcr_image](https://user-images.githubusercontent.com/82872002/229370808-4e680495-3933-4c51-8586-bb07a68f3723.jpg)
+
 
 
 ![Language](https://img.shields.io/badge/Coding%20Language-R%20version%204.2.1-blueviolet)
